@@ -13,7 +13,7 @@ when "python"
   puts "Хм, Python хорош, но скоро будет Ruby!"
 
 when "c++"
-  puts "C++ мощный, но Ruby тоже скоро понравится!"
+  puts "C++ мощный, но Ruby тоже скоро понравится"
 
 when "java"
   puts "Java интересен, но Ruby завоюет твое сердце!"
